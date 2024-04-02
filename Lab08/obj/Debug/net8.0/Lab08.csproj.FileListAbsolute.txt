@@ -1,0 +1,12 @@
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\bin\Debug\net8.0\Lab08.deps.json
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\bin\Debug\net8.0\Lab08.dll
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\bin\Debug\net8.0\Lab08.pdb
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.sourcelink.json
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.dll
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\refint\Lab08.dll
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\Lab08.pdb
+D:\Kaylor\Programming\the-fountain-of-objects-2-CoderKubs\Lab08\obj\Debug\net8.0\ref\Lab08.dll
